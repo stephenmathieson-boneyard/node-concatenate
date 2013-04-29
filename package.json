@@ -1,0 +1,17 @@
+{
+  "name": "node-concatenate",
+  "version": "0.0.1",
+  "description": "concatenate files",
+  "keywords": [],
+  "author": "Stephen Mathieson <me@stephenmathieson.com>",
+  "dependencies": {
+    "globs": "git://github.com/stephenmathieson/node-globs.git#master"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "should": "latest",
+    "jshint": "1.0.0",
+    "rimraf": "latest"
+  },
+  "main": "index"
+}
