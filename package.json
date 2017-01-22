@@ -9,7 +9,7 @@
     "url": "git://github.com/stephenmathieson/node-concatenate.git"
   },
   "dependencies": {
-    "globs": "git://github.com/stephenmathieson/node-globs.git#master"
+    "globs": "^0.1.2"
   },
   "devDependencies": {
     "mocha": "latest",
